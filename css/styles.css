@@ -1,5 +1,13 @@
 /* Your Website Styles */
 body
-{background: url(".//midterm-refresh/img/bg.png")
+{background: url("../img/bg.png");
+}
 
+h3{
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.container{
+	background:#666; 
 }
