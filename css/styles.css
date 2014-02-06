@@ -1,13 +1,12 @@
-/* Your Website Styles */
-body
-{background: url("../img/bg.png");
+body {
+	background: url("../img/bg.png");
 }
 
-h3{
-	font-family: 'Roboto Condensed', sans-serif;
-
+p {
+	font-family: 'Open Sans', sans-serif;
 }
 
-.container{
-	background:#666; 
+/* Helper Classes */
+.showgrid {
+	background: url("../img/grid-bg.png");
 }
