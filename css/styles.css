@@ -1,11 +1,20 @@
 body {
 	background: url("../img/bg.png");
-}
-
-p {
 	font-family: 'Open Sans', sans-serif;
 }
 
+/* Base New Styling */
+li{
+	background: red;
+	float:left;
+	list-style: none;
+	margin: 0 20px;
+}
+
+nav a{
+	background: green;
+	padding: 20px 20px 20px 60px;
+}
 /* Helper Classes */
 .showgrid {
 	background: url("../img/grid-bg.png");
